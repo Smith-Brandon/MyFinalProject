@@ -1,0 +1,29 @@
+Clean Text File 
+General Motors
+GE
+10
+3
+5
+100
+50.0
+Energy Transfer
+ET
+6.56
+6
+10
+50
+32.8
+Energy Transfer
+ET
+6.56
+6
+10
+50
+32.8
+Global Super Dividend
+SDIV
+9
+5
+13
+29
+33.93
